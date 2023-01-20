@@ -7,7 +7,7 @@ package com.arens.tareas;
  * @author Usuario
  *
  */
-public class abp {
+public class AbProgrupal {
 
 	/**
 	 * @param args
