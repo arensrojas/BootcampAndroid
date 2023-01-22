@@ -4,7 +4,7 @@
 package com.arens.tareas;
 
 /**
- * @author Usuario
+ * @author Leonardo Rojas Escárez
  *
  */
 public class Portafolio {
