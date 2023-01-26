@@ -899,3 +899,1405 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-01-25 17:42:03.469 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_MX
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-25 17:42:08.295
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-25 17:42:17.063
+!MESSAGE Logback config file: C:\Users\Usuario\Desktop\Bootcamp\proyectos\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-01-25 17:42:30.366
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-25 17:42:30.366
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-25 17:42:30.366
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-01-25 17:42:39.477
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Usuario'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-01-26 17:59:58.159 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=17.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_MX
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-26 18:00:02.523
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-01-26 18:00:09.921
+!MESSAGE Logback config file: C:\Users\Usuario\Desktop\Bootcamp\proyectos\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-01-26 18:00:19.200
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-26 18:00:19.200
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-01-26 18:00:19.200
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-01-26 18:00:27.087
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Usuario'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-01-26 19:11:07.872
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.arens.tareas;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+/**
+ * @author Usuario
+ *
+ */
+public class abpCapacitacion {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) throws Exception {
+		
+		// TODO CREAR CAPACITACIONES(DIA,HORA,LUGAR,DURACION,CANTIDAD DE ASISTENTES)
+		
+		List<String> userData = new ArrayList<String>();
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("\r\n\t\t----------  CAPACITACIONES  ----------  ");
+		
+		System.out.println("\r\nDatos a Ingresar : ");
+		
+		// TODO CREAR REGISTROS DE CLIENTES(RUT CLIENTE,NOMBRE,DIRECCION,COMUNA, TELEFONO)
+		
+		// obtener  RUT ==> entero  < 999999999
+        userData.add(validateMaxNumber(scanner, "RUT (sin puntos ni digito verificador)" , 999999999));
+        
+        // obtener Nombres==> requerido, String
+        // agregar usuarios a Lista userData 
+        userData.add(validateData(scanner, "Nombres"));
+        
+        // obtener Apellidos==> requerido, String
+        userData.add(validateData(scanner, "Apellidos"));
+        
+        //  obtener Dirección: <=50 char, String
+        //  input = getCapitalizeCase(validateStrLength(scanner, "Dirección", 51));
+        // userData.add(input);
+        userData.add(validateStrLength(scanner, "Dirección", 51));
+		
+        // obtener Comuna: requerido, String
+        userData.add(validateData(scanner, "Comuna"));
+        
+        //  obtener Teléfono: <= 15 char, String
+        // System.out.print("\r\n\t>Teléfono: ");
+        userData.add(validateStrLength(scanner, "Teléfono",16));
+        
+        // obtener Día: requerido, String
+        userData.add(validateData(scanner, "Día"));
+        
+        // obtener  hora ==> entero  
+        userData.add(validateData(scanner, "Hora"  ));
+        
+        // obtener Lugar: requerido, String
+        userData.add(validateData(scanner, "Lugar"));
+        
+        // obtener  Duración ==> entero  
+        userData.add(validateData(scanner, "Duración"));
+        
+        // obtener  asistentes ==> entero  
+        userData.add(validateData(scanner, "Asistentes"));
+        
+        
+         
+      
+     // Close obj scanner
+        scanner.close();
+        
+     
+     // TODO MOSTRAR EN PANTALLA ENTRE 26 Y 35
+     // TODO MOSTRAR EN PANTALLA LOS < A 35
+        
+        // Print  all data in console.
+        
+        System.out.println("\r\nDatos Registrados: ");
+        System.out.print("\r\n\t>RUN:       " 		+ 	 userData.get(0));
+        System.out.print("\r\n\t>Nombre:    " 		+	 userData.get(1));
+        System.out.print("\r\n\t>Apellidos: " 	+    userData.get(2));
+        System.out.print("\r\n\t>Dirección: " 	+    userData.get(3));
+        System.out.print("\r\n\t>Comuna:    " 		+ 	 userData.get(4));
+        System.out.print("\r\n\t>Telefono:  "	+ 	 userData.get(5));
+        System.out.print("\r\n\t>Dia:       " 		+ 	 userData.get(6));
+        System.out.print("\r\n\t>Hora:      " 		+ 	 userData.get(7));
+        System.out.print("\r\n\t>Lugar:     "		+ 	 userData.get(8));
+        System.out.print("\r\n\t>Duracion:  " 	+    userData.get(9));
+        System.out.print("\r\n\t>Asistentes:" 	+    userData.get(10));
+        
+         
+	}
+	
+		// TODO MOSTRAR EN PANTALLA LOS DATOS DE LA CAPACITACION MISMA + CANTIDAD DE PERSONAS < 25
+		
+			
+
+	
+        // Validate data entry ==> method
+        public static String validateData(Scanner scanner, String label) {
+            boolean process = true;
+            String input = "";
+                        
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                input = scanner.nextLine();
+                if (input.length() > 1) {
+                    input = getCapitalizeCase(input);
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.println("\r\n\t>> ¡! Por favor, escribe tu " + label);
+                }
+            }
+            return input;
+        }
+        
+        
+	 
+	/**
+        private static String getCapitalizeCase(String input) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		**/
+
+
+		// Validate char limit on string inputs ==> method
+        public static String validateStrLength(Scanner scanner, String label, int limit) {
+            boolean process = true;
+            String input = "";
+            while (process) {
+                // Use print to enable writing after the tag
+                System.out.print("\r\n\t>" + label + ": ");
+                // https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo
+                // last one is number
+                input = scanner.nextLine();
+                if (input.length() < limit) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la info necesaria");
+                }
+            }
+            return input;
+        }
+        
+        // Validate number max on int inputs ==> method
+        public static String validateMaxNumber(Scanner scanner, String label, int max) {
+            boolean process = true;
+            String inputStr = "";
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                inputStr = scanner.nextLine();
+                int input = Integer.valueOf(inputStr);
+
+                if (input < max) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la cantidad de dígitos necesaria");
+                }
+            }
+            return inputStr;
+        }
+        
+        // Capitalize case in strings
+        public static String getCapitalizeCase(String input) {
+            // create two substrings from word
+            // first substring contains first letter of word
+            // second substring contains remaining letters
+            String firstLetter = input.substring(0, 1);
+            String remainingLetters = input.substring(1, input.length());
+
+            // change the first letter to uppercase
+            firstLetter = firstLetter.toUpperCase();
+
+            // join the two substrings
+            input = firstLetter + remainingLetters;
+            return input;
+        }
+
+		// TODO CREAR LISTADO DE ASISTENTES(NOMBRE,EDAD)
+        
+        public class Multiplos
+        {
+            public static void main(String args[])
+            {
+                int Asistentes = 0; //Iniciamos el contador en cero
+
+                for(int Asistentes > 0 Asistentes++)
+                {
+                    if(i % 20 == 0) //Preguntamos si el residuo es 0 (es múltiplo de 20)
+                    {
+                        Asistentes++; //Si es múltiplo aumentamos el contador en 1
+                    }
+                    //Si no es múltiplo no hacemos nada
+                }
+
+                //Mostramos el valor del contador
+                System.out.println(Asistentes);
+            }
+        
+        
+
+	}
+}
+
+
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2023-01-26 19:11:07.875
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2023-01-26 19:11:07.877
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-01-26 19:11:07.953
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.arens.tareas;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+/**
+ * @author Usuario
+ *
+ */
+public class abpCapacitacion {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) throws Exception {
+		
+		// TODO CREAR CAPACITACIONES(DIA,HORA,LUGAR,DURACION,CANTIDAD DE ASISTENTES)
+		
+		List<String> userData = new ArrayList<String>();
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("\r\n\t\t----------  CAPACITACIONES  ----------  ");
+		
+		System.out.println("\r\nDatos a Ingresar : ");
+		
+		// TODO CREAR REGISTROS DE CLIENTES(RUT CLIENTE,NOMBRE,DIRECCION,COMUNA, TELEFONO)
+		
+		// obtener  RUT ==> entero  < 999999999
+        userData.add(validateMaxNumber(scanner, "RUT (sin puntos ni digito verificador)" , 999999999));
+        
+        // obtener Nombres==> requerido, String
+        // agregar usuarios a Lista userData 
+        userData.add(validateData(scanner, "Nombres"));
+        
+        // obtener Apellidos==> requerido, String
+        userData.add(validateData(scanner, "Apellidos"));
+        
+        //  obtener Dirección: <=50 char, String
+        //  input = getCapitalizeCase(validateStrLength(scanner, "Dirección", 51));
+        // userData.add(input);
+        userData.add(validateStrLength(scanner, "Dirección", 51));
+		
+        // obtener Comuna: requerido, String
+        userData.add(validateData(scanner, "Comuna"));
+        
+        //  obtener Teléfono: <= 15 char, String
+        // System.out.print("\r\n\t>Teléfono: ");
+        userData.add(validateStrLength(scanner, "Teléfono",16));
+        
+        // obtener Día: requerido, String
+        userData.add(validateData(scanner, "Día"));
+        
+        // obtener  hora ==> entero  
+        userData.add(validateData(scanner, "Hora"  ));
+        
+        // obtener Lugar: requerido, String
+        userData.add(validateData(scanner, "Lugar"));
+        
+        // obtener  Duración ==> entero  
+        userData.add(validateData(scanner, "Duración"));
+        
+        // obtener  asistentes ==> entero  
+        userData.add(validateData(scanner, "Asistentes"));
+        
+        
+         
+      
+     // Close obj scanner
+        scanner.close();
+        
+     
+     // TODO MOSTRAR EN PANTALLA ENTRE 26 Y 35
+     // TODO MOSTRAR EN PANTALLA LOS < A 35
+        
+        // Print  all data in console.
+        
+        System.out.println("\r\nDatos Registrados: ");
+        System.out.print("\r\n\t>RUN:       " 		+ 	 userData.get(0));
+        System.out.print("\r\n\t>Nombre:    " 		+	 userData.get(1));
+        System.out.print("\r\n\t>Apellidos: " 	+    userData.get(2));
+        System.out.print("\r\n\t>Dirección: " 	+    userData.get(3));
+        System.out.print("\r\n\t>Comuna:    " 		+ 	 userData.get(4));
+        System.out.print("\r\n\t>Telefono:  "	+ 	 userData.get(5));
+        System.out.print("\r\n\t>Dia:       " 		+ 	 userData.get(6));
+        System.out.print("\r\n\t>Hora:      " 		+ 	 userData.get(7));
+        System.out.print("\r\n\t>Lugar:     "		+ 	 userData.get(8));
+        System.out.print("\r\n\t>Duracion:  " 	+    userData.get(9));
+        System.out.print("\r\n\t>Asistentes:" 	+    userData.get(10));
+        
+         
+	}
+	
+		// TODO MOSTRAR EN PANTALLA LOS DATOS DE LA CAPACITACION MISMA + CANTIDAD DE PERSONAS < 25
+		
+			
+
+	
+        // Validate data entry ==> method
+        public static String validateData(Scanner scanner, String label) {
+            boolean process = true;
+            String input = "";
+                        
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                input = scanner.nextLine();
+                if (input.length() > 1) {
+                    input = getCapitalizeCase(input);
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.println("\r\n\t>> ¡! Por favor, escribe tu " + label);
+                }
+            }
+            return input;
+        }
+        
+        
+	 
+	/**
+        private static String getCapitalizeCase(String input) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		**/
+
+
+		// Validate char limit on string inputs ==> method
+        public static String validateStrLength(Scanner scanner, String label, int limit) {
+            boolean process = true;
+            String input = "";
+            while (process) {
+                // Use print to enable writing after the tag
+                System.out.print("\r\n\t>" + label + ": ");
+                // https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo
+                // last one is number
+                input = scanner.nextLine();
+                if (input.length() < limit) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la info necesaria");
+                }
+            }
+            return input;
+        }
+        
+        // Validate number max on int inputs ==> method
+        public static String validateMaxNumber(Scanner scanner, String label, int max) {
+            boolean process = true;
+            String inputStr = "";
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                inputStr = scanner.nextLine();
+                int input = Integer.valueOf(inputStr);
+
+                if (input < max) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la cantidad de dígitos necesaria");
+                }
+            }
+            return inputStr;
+        }
+        
+        // Capitalize case in strings
+        public static String getCapitalizeCase(String input) {
+            // create two substrings from word
+            // first substring contains first letter of word
+            // second substring contains remaining letters
+            String firstLetter = input.substring(0, 1);
+            String remainingLetters = input.substring(1, input.length());
+
+            // change the first letter to uppercase
+            firstLetter = firstLetter.toUpperCase();
+
+            // join the two substrings
+            input = firstLetter + remainingLetters;
+            return input;
+        }
+
+		// TODO CREAR LISTADO DE ASISTENTES(NOMBRE,EDAD)
+        
+        public class Multiplos
+        {
+            public static void main(String args[])
+            {
+                int Asistentes = 0; //Iniciamos el contador en cero
+
+                for(int Asistentes > 0 Asistentes++)
+                {
+                    if(i % 20 == 0) //Preguntamos si el residuo es 0 (es múltiplo de 20)
+                    {
+                        Asistentes++; //Si es múltiplo aumentamos el contador en 1
+                    }
+                    //Si no es múltiplo no hacemos nada
+                }
+
+                //Mostramos el valor del contador
+                System.out.println(Asistentes);
+            }
+        
+        
+
+	}
+}
+
+
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2023-01-26 19:11:07.955
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-01-26 19:11:07.956
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-01-26 19:11:31.169
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.arens.tareas;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+/**
+ * @author Usuario
+ *
+ */
+public class abpCapacitacion {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) throws Exception {
+		
+		// TODO CREAR CAPACITACIONES(DIA,HORA,LUGAR,DURACION,CANTIDAD DE ASISTENTES)
+		
+		List<String> userData = new ArrayList<String>();
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("\r\n\t\t----------  CAPACITACIONES  ----------  ");
+		
+		System.out.println("\r\nDatos a Ingresar : ");
+		
+		// TODO CREAR REGISTROS DE CLIENTES(RUT CLIENTE,NOMBRE,DIRECCION,COMUNA, TELEFONO)
+		
+		// obtener  RUT ==> entero  < 999999999
+        userData.add(validateMaxNumber(scanner, "RUT (sin puntos ni digito verificador)" , 999999999));
+        
+        // obtener Nombres==> requerido, String
+        // agregar usuarios a Lista userData 
+        userData.add(validateData(scanner, "Nombres"));
+        
+        // obtener Apellidos==> requerido, String
+        userData.add(validateData(scanner, "Apellidos"));
+        
+        //  obtener Dirección: <=50 char, String
+        //  input = getCapitalizeCase(validateStrLength(scanner, "Dirección", 51));
+        // userData.add(input);
+        userData.add(validateStrLength(scanner, "Dirección", 51));
+		
+        // obtener Comuna: requerido, String
+        userData.add(validateData(scanner, "Comuna"));
+        
+        //  obtener Teléfono: <= 15 char, String
+        // System.out.print("\r\n\t>Teléfono: ");
+        userData.add(validateStrLength(scanner, "Teléfono",16));
+        
+        // obtener Día: requerido, String
+        userData.add(validateData(scanner, "Día"));
+        
+        // obtener  hora ==> entero  
+        userData.add(validateData(scanner, "Hora"  ));
+        
+        // obtener Lugar: requerido, String
+        userData.add(validateData(scanner, "Lugar"));
+        
+        // obtener  Duración ==> entero  
+        userData.add(validateData(scanner, "Duración"));
+        
+        // obtener  asistentes ==> entero  
+        userData.add(validateData(scanner, "Asistentes"));
+        
+        
+         
+      
+     // Close obj scanner
+        scanner.close();
+        
+     
+     // TODO MOSTRAR EN PANTALLA ENTRE 26 Y 35
+     // TODO MOSTRAR EN PANTALLA LOS < A 35
+        
+        // Print  all data in console.
+        
+        System.out.println("\r\nDatos Registrados: ");
+        System.out.print("\r\n\t>RUN:       " 		+ 	 userData.get(0));
+        System.out.print("\r\n\t>Nombre:    " 		+	 userData.get(1));
+        System.out.print("\r\n\t>Apellidos: " 	+    userData.get(2));
+        System.out.print("\r\n\t>Dirección: " 	+    userData.get(3));
+        System.out.print("\r\n\t>Comuna:    " 		+ 	 userData.get(4));
+        System.out.print("\r\n\t>Telefono:  "	+ 	 userData.get(5));
+        System.out.print("\r\n\t>Dia:       " 		+ 	 userData.get(6));
+        System.out.print("\r\n\t>Hora:      " 		+ 	 userData.get(7));
+        System.out.print("\r\n\t>Lugar:     "		+ 	 userData.get(8));
+        System.out.print("\r\n\t>Duracion:  " 	+    userData.get(9));
+        System.out.print("\r\n\t>Asistentes:" 	+    userData.get(10));
+        
+         
+	}
+	
+		// TODO MOSTRAR EN PANTALLA LOS DATOS DE LA CAPACITACION MISMA + CANTIDAD DE PERSONAS < 25
+		
+			
+
+	
+        // Validate data entry ==> method
+        public static String validateData(Scanner scanner, String label) {
+            boolean process = true;
+            String input = "";
+                        
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                input = scanner.nextLine();
+                if (input.length() > 1) {
+                    input = getCapitalizeCase(input);
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.println("\r\n\t>> ¡! Por favor, escribe tu " + label);
+                }
+            }
+            return input;
+        }
+        
+        
+	 
+	/**
+        private static String getCapitalizeCase(String input) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		**/
+
+
+		// Validate char limit on string inputs ==> method
+        public static String validateStrLength(Scanner scanner, String label, int limit) {
+            boolean process = true;
+            String input = "";
+            while (process) {
+                // Use print to enable writing after the tag
+                System.out.print("\r\n\t>" + label + ": ");
+                // https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo
+                // last one is number
+                input = scanner.nextLine();
+                if (input.length() < limit) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la info necesaria");
+                }
+            }
+            return input;
+        }
+        
+        // Validate number max on int inputs ==> method
+        public static String validateMaxNumber(Scanner scanner, String label, int max) {
+            boolean process = true;
+            String inputStr = "";
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                inputStr = scanner.nextLine();
+                int input = Integer.valueOf(inputStr);
+
+                if (input < max) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la cantidad de dígitos necesaria");
+                }
+            }
+            return inputStr;
+        }
+        
+        // Capitalize case in strings
+        public static String getCapitalizeCase(String input) {
+            // create two substrings from word
+            // first substring contains first letter of word
+            // second substring contains remaining letters
+            String firstLetter = input.substring(0, 1);
+            String remainingLetters = input.substring(1, input.length());
+
+            // change the first letter to uppercase
+            firstLetter = firstLetter.toUpperCase();
+
+            // join the two substrings
+            input = firstLetter + remainingLetters;
+            return input;
+        }
+
+		// TODO CREAR LISTADO DE ASISTENTES(NOMBRE,EDAD)
+        
+        public class Multiplos
+        {
+            public static void main(String args[])
+            {
+                int Asistentes = 0; //Iniciamos el contador en cero
+
+                for(int Asistentes > 0 Asistentes++)
+                {
+                    if(i % 20 == 0) //Preguntamos si el residuo es 0 (es múltiplo de 20)
+                    {
+                        Asistentes++; //Si es múltiplo aumentamos el contador en 1
+                    }
+                    //Si no es múltiplo no hacemos nada
+                }
+
+                //Mostramos el valor del contador
+                System.out.println(Asistentes);
+            }
+        
+        
+
+	}
+}
+
+
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2023-01-26 19:11:31.172
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2023-01-26 19:11:31.174
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:561)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-01-26 19:11:31.321
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.arens.tareas;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+/**
+ * @author Usuario
+ *
+ */
+public class abpCapacitacion {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) throws Exception {
+		
+		// TODO CREAR CAPACITACIONES(DIA,HORA,LUGAR,DURACION,CANTIDAD DE ASISTENTES)
+		
+		List<String> userData = new ArrayList<String>();
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("\r\n\t\t----------  CAPACITACIONES  ----------  ");
+		
+		System.out.println("\r\nDatos a Ingresar : ");
+		
+		// TODO CREAR REGISTROS DE CLIENTES(RUT CLIENTE,NOMBRE,DIRECCION,COMUNA, TELEFONO)
+		
+		// obtener  RUT ==> entero  < 999999999
+        userData.add(validateMaxNumber(scanner, "RUT (sin puntos ni digito verificador)" , 999999999));
+        
+        // obtener Nombres==> requerido, String
+        // agregar usuarios a Lista userData 
+        userData.add(validateData(scanner, "Nombres"));
+        
+        // obtener Apellidos==> requerido, String
+        userData.add(validateData(scanner, "Apellidos"));
+        
+        //  obtener Dirección: <=50 char, String
+        //  input = getCapitalizeCase(validateStrLength(scanner, "Dirección", 51));
+        // userData.add(input);
+        userData.add(validateStrLength(scanner, "Dirección", 51));
+		
+        // obtener Comuna: requerido, String
+        userData.add(validateData(scanner, "Comuna"));
+        
+        //  obtener Teléfono: <= 15 char, String
+        // System.out.print("\r\n\t>Teléfono: ");
+        userData.add(validateStrLength(scanner, "Teléfono",16));
+        
+        // obtener Día: requerido, String
+        userData.add(validateData(scanner, "Día"));
+        
+        // obtener  hora ==> entero  
+        userData.add(validateData(scanner, "Hora"  ));
+        
+        // obtener Lugar: requerido, String
+        userData.add(validateData(scanner, "Lugar"));
+        
+        // obtener  Duración ==> entero  
+        userData.add(validateData(scanner, "Duración"));
+        
+        // obtener  asistentes ==> entero  
+        userData.add(validateData(scanner, "Asistentes"));
+        
+        
+         
+      
+     // Close obj scanner
+        scanner.close();
+        
+     
+     // TODO MOSTRAR EN PANTALLA ENTRE 26 Y 35
+     // TODO MOSTRAR EN PANTALLA LOS < A 35
+        
+        // Print  all data in console.
+        
+        System.out.println("\r\nDatos Registrados: ");
+        System.out.print("\r\n\t>RUN:       " 		+ 	 userData.get(0));
+        System.out.print("\r\n\t>Nombre:    " 		+	 userData.get(1));
+        System.out.print("\r\n\t>Apellidos: " 	+    userData.get(2));
+        System.out.print("\r\n\t>Dirección: " 	+    userData.get(3));
+        System.out.print("\r\n\t>Comuna:    " 		+ 	 userData.get(4));
+        System.out.print("\r\n\t>Telefono:  "	+ 	 userData.get(5));
+        System.out.print("\r\n\t>Dia:       " 		+ 	 userData.get(6));
+        System.out.print("\r\n\t>Hora:      " 		+ 	 userData.get(7));
+        System.out.print("\r\n\t>Lugar:     "		+ 	 userData.get(8));
+        System.out.print("\r\n\t>Duracion:  " 	+    userData.get(9));
+        System.out.print("\r\n\t>Asistentes:" 	+    userData.get(10));
+        
+         
+	}
+	
+		// TODO MOSTRAR EN PANTALLA LOS DATOS DE LA CAPACITACION MISMA + CANTIDAD DE PERSONAS < 25
+		
+			
+
+	
+        // Validate data entry ==> method
+        public static String validateData(Scanner scanner, String label) {
+            boolean process = true;
+            String input = "";
+                        
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                input = scanner.nextLine();
+                if (input.length() > 1) {
+                    input = getCapitalizeCase(input);
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.println("\r\n\t>> ¡! Por favor, escribe tu " + label);
+                }
+            }
+            return input;
+        }
+        
+        
+	 
+	/**
+        private static String getCapitalizeCase(String input) {
+			// TODO Auto-generated method stub
+			return null;
+		}
+		**/
+
+
+		// Validate char limit on string inputs ==> method
+        public static String validateStrLength(Scanner scanner, String label, int limit) {
+            boolean process = true;
+            String input = "";
+            while (process) {
+                // Use print to enable writing after the tag
+                System.out.print("\r\n\t>" + label + ": ");
+                // https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo
+                // last one is number
+                input = scanner.nextLine();
+                if (input.length() < limit) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la info necesaria");
+                }
+            }
+            return input;
+        }
+        
+        // Validate number max on int inputs ==> method
+        public static String validateMaxNumber(Scanner scanner, String label, int max) {
+            boolean process = true;
+            String inputStr = "";
+            while (process) {
+                System.out.print("\r\n\t>" + label + ": ");
+                inputStr = scanner.nextLine();
+                int input = Integer.valueOf(inputStr);
+
+                if (input < max) {
+                    process = false;
+                } else {
+                    // Print error message if neccesary
+                    System.out.print("\r\n\t>> ¡! Dato extenso: Por favor, ingresa sólo la cantidad de dígitos necesaria");
+                }
+            }
+            return inputStr;
+        }
+        
+        // Capitalize case in strings
+        public static String getCapitalizeCase(String input) {
+            // create two substrings from word
+            // first substring contains first letter of word
+            // second substring contains remaining letters
+            String firstLetter = input.substring(0, 1);
+            String remainingLetters = input.substring(1, input.length());
+
+            // change the first letter to uppercase
+            firstLetter = firstLetter.toUpperCase();
+
+            // join the two substrings
+            input = firstLetter + remainingLetters;
+            return input;
+        }
+
+		// TODO CREAR LISTADO DE ASISTENTES(NOMBRE,EDAD)
+        
+        public class Multiplos
+        {
+            public static void main(String args[])
+            {
+                int Asistentes = 0; //Iniciamos el contador en cero
+
+                for(int Asistentes > 0 Asistentes++)
+                {
+                    if(i % 20 == 0) //Preguntamos si el residuo es 0 (es múltiplo de 20)
+                    {
+                        Asistentes++; //Si es múltiplo aumentamos el contador en 1
+                    }
+                    //Si no es múltiplo no hacemos nada
+                }
+
+                //Mostramos el valor del contador
+                System.out.println(Asistentes);
+            }
+        
+        
+
+	}
+}
+
+
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2023-01-26 19:11:31.322
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-01-26 19:11:31.323
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3882)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3734)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3063)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:213)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3419)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:344)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1272)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

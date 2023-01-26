@@ -16,8 +16,19 @@ public class AbpSeguros {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) throws Exception {
-        // Creau una lista con los usuarios ingresados por teclado
+	
+	
+	/**
+	 * La sentencia throw se utiliza para lanzar 
+	 * explícitamente una excepción. En primer lugar se debe obtener
+	 * un descriptor de un objeto Throwable, bien mediante un parámetro en una cláusula catch o,
+ 	 * se puede crear utilizando el operador new.
+	 */
+	//@param args
+	//@throws Exception
+	
+	public static void main(String[] args) throws Exception { 
+        // Crea una lista con los usuarios ingresados por teclado
         List<String> userData = new ArrayList<String>();
 
         // Docs Scanner   https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html

@@ -70,7 +70,7 @@ public class AbpCalculadora {
             	result = num1/num2;
             default:
                 System.out.println("La operación no se reconoce. Repite la entrada.");
-                result = calc(num1, num2, getOperation());//recursividad
+                result = calc(num1, num2, getOperation());//Construcción a partir de su propio tipo
         }
         return result;
     }
