@@ -71,8 +71,7 @@ public class abpCapacitacion {
         scanner.close();
         
      
-     // TODO MOSTRAR EN PANTALLA ENTRE 26 Y 35
-     // TODO MOSTRAR EN PANTALLA LOS < A 35
+    
         
         // Print  all data in console.
         
@@ -91,10 +90,6 @@ public class abpCapacitacion {
         
          
 	}
-	
-		
-		
-			
 
 	
         // Validate data entry ==> method
@@ -184,7 +179,11 @@ public class abpCapacitacion {
 		// TODO CREAR LISTADO DE ASISTENTES(NOMBRE,EDAD)
         // TODO MOSTRAR EN PANTALLA LOS DATOS DE LA CAPACITACION MISMA + CANTIDAD DE PERSONAS < 25
         
-       
+        // TODO MOSTRAR EN PANTALLA ENTRE 26 Y 35
+        // TODO MOSTRAR EN PANTALLA LOS < A 35
+        
+        
+        
 }
 
 
