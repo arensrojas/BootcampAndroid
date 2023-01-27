@@ -34,19 +34,19 @@ public class AbpCalculadora {
             num = scanner.nextInt();
         } else {
             System.out.println("Te has equivocado al introducir el número. Inténtalo de nuevo.");
-            scanner.next();//recursividad
+            scanner.next();//Construcción a partir de su propio tipo
             num = getInt();
         }
         return num;
     }
     public static char getOperation(){
-        System.out.println("Introduzca la operación: ( *, : , + , - , % ) ");
+        System.out.println("Introduzca la operación: ( *, / , + , - ) ");
         char operation;
         if(scanner.hasNext()){
             operation = scanner.next().charAt(0);
         } else {
             System.out.println("Ha cometido un error al entrar en la operación. Inténtalo de nuevo.");
-            scanner.next();//recursividad
+            scanner.next();//Construcción a partir de su propio tipo
             operation = getOperation();
         }
         return operation;
