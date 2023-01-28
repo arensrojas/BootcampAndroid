@@ -3,11 +3,14 @@
  */
 package com.arens.tareas;
 
+import java.util.Scanner;
+
 /**
  * @author Leonardo Rojas
  *
  */
 public class Vocales {
+	static Scanner scanner = new Scanner(System.in);
 
 	/**
 	 * @param args
