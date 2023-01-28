@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.arens.tareas;
 
 import java.util.ArrayList;
@@ -116,6 +114,7 @@ public class Plataforma {
 				
 				
 				String opcion = "";//Variable para recoger opcion del usuario
+				
 
 				do {
 					System.out.println("\n\t\tMENU PRINCIPAL");
@@ -125,11 +124,12 @@ public class Plataforma {
 					System.out.println("[3] - Ingresar RUT");
 					System.out.println("[4] - Ingresar DIRECCIÓN CLIENTE");
 					System.out.println("[5] - Ingresar TELÉFONO CLIENTE");
-					System.out.println("[6] - Ingresar CANTIDAD de EMPLEADOS del CLIENTES");
+					System.out.println("[6] - Ingresar CANTIDAD de EMPLEADOS del CLIENTE");
 					
 					System.out.println("\n[0] - SALIR del programa");
 					System.out.print("\nEscoja opción: ");
 					opcion = teclado.nextLine();
+					
 					
 					//Evaluamos opcion escogida
 					
@@ -138,7 +138,8 @@ public class Plataforma {
 						System.out.println("\n\t\t--FIN DE PROGRAMA--");
 						break;
 					case "1":
-						System.out.println("\nEn construccion...");
+						System.out.println("\nNuevo Cliente " + teclado.nextLine());
+						
 						break;
 					case "2":
 						System.out.println("\nEn construccion...");

@@ -40,7 +40,7 @@ public class AbpCalculadora {
         return num;
     }
     public static char getOperation(){
-        System.out.println("Introduzca la operación: ( *, / , + , - ) ");
+        System.out.println("Introduzca la operación: ( *, / , + , - , % ) ");
         char operation;
         if(scanner.hasNext()){
             operation = scanner.next().charAt(0);
@@ -67,7 +67,8 @@ public class AbpCalculadora {
                 result = num1/num2;
                 break;
             case '%':
-            	result = num1/num2;
+            	result = num1 - (num1 / num2 * num2);
+            	break;
             default:
                 System.out.println("La operación no se reconoce. Repite la entrada.");
                 result = calc(num1, num2, getOperation());//Construcción a partir de su propio tipo
