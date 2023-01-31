@@ -20,17 +20,17 @@ public class Vocales {
 		
 		System.out.println(" Ingrese una palabra: ");
 		
-		String sPalabra = "";
+		String Palabra = "";
 		int contador = 0;
-		
-		for(int i = 0; i < sPalabra.length(); i++) {
+		Palabra = scanner.nextLine();
+		for(int i = 0; i < Palabra.length(); i++) {
 			
-			sPalabra = scanner.nextLine();
 			
-			 if ((sPalabra.charAt(i)=='a') || (sPalabra.charAt(i)=='e') || (sPalabra.charAt(i)=='i') || (sPalabra.charAt(i)=='o') || (sPalabra.charAt(i)=='u')){ 
+			
+			 if ((Palabra.charAt(i) =='a') || (Palabra.charAt(i)=='e') || (Palabra.charAt(i)=='i') || (Palabra.charAt(i)=='o') || (Palabra.charAt(i)=='u')){ 
 			    contador++;
 			  }
-			 System.out.println(" La palabra " + sPalabra + " contiene " + contador + " vocales ");
+			 System.out.println(" La palabra " + Palabra + " contiene " + contador + " vocales ");
 			}
 		
 	}
