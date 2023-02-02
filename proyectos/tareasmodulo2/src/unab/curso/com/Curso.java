@@ -63,8 +63,8 @@ public class Curso {
 	
 			promedio = sumaCalificaciones / contadorAlumnos;
 			System.out.println("\nEl promedio del curso es: " + promedio);
-			System.out.println("\nEl con la menor nota  es: " + nombreMinNota + " con " + minNota);
-			System.out.println("\nEl con la mayor nota  es: " + nombreMaxNota + " con " + maxNota);
+			System.out.println("\nEl Alumno con la menor nota  es: " + nombreMinNota + " con " + minNota);
+			System.out.println("\nEl Alumno con la mayor nota  es: " + nombreMaxNota + " con " + maxNota);
 
 	}
 
