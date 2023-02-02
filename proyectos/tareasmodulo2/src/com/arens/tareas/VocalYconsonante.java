@@ -18,7 +18,7 @@ public class VocalYconsonante {
 		 Scanner scanner = new Scanner(System.in);
 		 
 		String str = "";
-		int vconta = 0, cconta = 0;
+		int vocalesConta = 0, consonantesConta = 0;
 		
 		str = scanner.nextLine();
 		
@@ -28,14 +28,14 @@ public class VocalYconsonante {
 		for(int i = 0; i < str.length();i++) {
 			char ch = str.charAt(i);
 			if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-				vconta++;
-			}else if ((ch >= 'a'&& ch <= 'z')){
-				cconta++;
+				vocalesConta++;
+			}else if ((ch >= 'a' && ch <= 'z')){
+				consonantesConta++;
 			}
-				
+			
 			}
-			System.out.println("Numero de vocales:  " + vconta);
-			System.out.println("Numero de consonantes: " + cconta);
+			System.out.println("Numero de vocales:  " + vocalesConta);
+			System.out.println("Numero de consonantes: " + consonantesConta);
 			
 		}
 		
