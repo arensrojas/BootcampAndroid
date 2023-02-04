@@ -13,7 +13,7 @@ public class Plataforma {
 	/**
 	 * @param args
 	 */
-	
+	//TODO 
 	public class Cliente {
 		
 		private String nombre;
