@@ -40,8 +40,9 @@ public class Trabajador {
 	//Método toString
 	@Override
 	public String toString() {
-		return "Trabajador [rut=" + run + ", nombres=" + nombres + ", apellidos=" + apellidos + ", telefono=" + telefono
-				+ ", edad=" + edad + "]";
+		return "Trabajador [rut = " + run + ", nombres = " + nombres + ", apellidos = " + apellidos + ", telefono = " +
+				telefono + ", edad = " + edad + "]";
+				
 	}
 	
 	//Método descomponerRun

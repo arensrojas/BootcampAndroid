@@ -20,7 +20,7 @@ public class Main {
 		//Ahora invocamos los métodos e imprimimos los resultados por consola
 		
 		//Método toString
-		System.out.println(trabajador1.toString());;
+		System.out.println(trabajador1.toString());
 		
 		//Método que concatena nombres y apellidos
 		System.out.println(trabajador1.nombreCompleto());
