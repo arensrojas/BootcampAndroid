@@ -73,26 +73,7 @@ public class Cliente {
 				+ edad ;
 	}
 	
-	//Método descomponerRut
-		public int descomponerRut() {
-			String rutSinDV = "";
-			for (int i = 0; i < rut.length(); i++) {
-				char c = rut.charAt(i);
-				if(c == '-') {
-					break;
-				}else {
-					rutSinDV = rutSinDV + c;
-				}
-			}
-			
-			return Integer.valueOf(rutSinDV);
-		}
+	
 
-	
-	
-	
-	
-	
-	
-	
+
 }
