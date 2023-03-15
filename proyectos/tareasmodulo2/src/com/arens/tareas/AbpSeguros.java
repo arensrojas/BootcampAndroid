@@ -82,42 +82,7 @@ public class AbpSeguros {
             // cerrar objeto scanner
             scanner.close();
             
-        // obtener el ingreso de usuarios y crear variables
-        System.out.println("\r\nDatos a Ingresar: ");
-        
-        // obtener  RUT ==> entero  < 999999999
-        userData.add(validateMaxNumber(scanner, "RUT (sin puntos ni digito verificador)" , 99));
-
-        // obtener Nombres==> requerido, String
-        // agregar usuarios a Lista userData 
-        userData.add(validateData(scanner, "Nombres"));
-
-        // obtener Apellidos==> requerido, String
-        userData.add(validateData(scanner, "Apellidos"));
-
-        //  obtener Teléfono: <= 15 char, String
-        // System.out.print("\r\n\t>Teléfono: ");
-        userData.add(validateStrLength(scanner, "Teléfono",16));
-        
-        // obtener AFP ==> requerido, String
-        userData.add(validateData(scanner, "AFP"));
-
-        // obtener Sistema de salud ==> 1 (Fonasa) o 2 (Isapre), Menu con int
-        userData.add(validateMenu(scanner, "Sistema de Salud", "1-FONASA" , "2-ISAPRE " ));
-
-        //  obtener Dirección: <=50 char, String
-        //  input = getCapitalizeCase(validateStrLength(scanner, "Dirección", 51));
-        // userData.add(input);
-        userData.add(validateStrLength(scanner, "Dirección", 51));
-
-        // obtener Comuna: requerido, String
-        userData.add(validateData(scanner, "Comuna"));
-
-        // obtener Edad ==> int < 120
-        userData.add(validateMaxNumber(scanner, "Edad", 70));
-
-        // cerrar objeto scanner
-        scanner.close();
+      
 
         // imprimir datos por consola.
         System.out.println("\r\nDatos Registrados: ");
