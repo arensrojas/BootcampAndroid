@@ -1,0 +1,5 @@
+Consulta para mostrar el listado de capacitaciones que tengan más de tres asistentes registrados en la tabla respectiva. De la tabla de capacitaciones debe mostrar el lugar, la duración, el día y la hora:
+
+SELECT C.lugar, C.duracion, C.dia, C.hora
+FROM Capacitacion AS C
+WHERE (SELECT COUNT(*) FROM Asistentes AS A WHERE A.id_capacitacion = C.id_capacitacion) > 3;

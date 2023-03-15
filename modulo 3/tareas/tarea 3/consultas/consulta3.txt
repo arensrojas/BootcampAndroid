@@ -1,0 +1,5 @@
+Consulta para desplegar el listado de capacitaciones mostrando RUT del cliente, día y hora, tales que la cantidad de asistentes registrada en el campo cantasistentes no coincida con la cantidad existente en la tabla Asistentes:
+
+SELECT C.rut_cliente, C.dia, C.hora
+FROM Capacitacion AS C
+WHERE C.cantasistentes != (SELECT COUNT(*) FROM Asistentes AS A WHERE A.id_capacitacion = C.id_capacitacion);

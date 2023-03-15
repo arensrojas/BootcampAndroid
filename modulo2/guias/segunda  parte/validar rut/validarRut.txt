@@ -1,0 +1,12 @@
+public static boolean validateRut(int rut) {
+				    return rut >= 0 && rut < 99999999;
+				}
+
+				public static void main(String[] args) {
+				    int rut = 123456789;
+				    if (validateRut(rut)) {
+				        System.out.println("El RUT es válido ");
+				    } else {
+				        System.out.println("El RUT no es válido ");
+				    }
+				}

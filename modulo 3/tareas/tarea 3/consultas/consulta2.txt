@@ -1,0 +1,6 @@
+Consulta para desplegar el listado de asistentes, mostrando el apellido y el nombre, y el RUT del cliente, lugar y duración de la capacitación a la que asistió:
+
+SELECT A.apellido, A.nombre, A.rut, C.lugar, C.duracion
+FROM Asistentes AS AS
+JOIN Capacitacion AS C ON AS.id_capacitacion = C.id_capacitacion
+ORDER BY C.lugar;
